@@ -20,6 +20,8 @@
 
 ![codewars](https://www.codewars.com/users/sergxlove/badges/large)
 
+### 💻 Языки:
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 
 <!--
 **sergxlove/sergxlove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
