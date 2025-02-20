@@ -41,6 +41,10 @@
 <a href="" target="blank"><img style="margin: 10px" src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/powershell/2024.3.2/1712186343433/Microsoft.VisualStudio.Services.Icons.Default" alt="JS" height="50" /></a>
 <a href="" target="blank"><img style="margin: 10px" src="https://cdn6.aptoide.com/imgs/6/d/5/6d5bd0185e3ed9bf61b9e71a015f8379_icon.png?w=128" alt="JS" height="50" /></a>
 <a href="" target="blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/640px-Sqlite-square-icon.svg.png" alt="JS" height="50" /></a>
+<a href="" target="blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/6449196ad13168d49686bd2d773798e57838aaf35ac20c0d1165e57d0700d285/68747470733a2f2f6461746165646f2d776562736974652e73332e616d617a6f6e6177732e636f6d2f737570706f727465642d736f75726365732f73716c2d7365727665722d736d2e706e67" alt="JS" height="50" /></a>
+<a href="" target="blank"><img style="margin: 10px" src="https://static.wikia.nocookie.net/windows/images/0/0e/Microsoft_.NET_logo.png/revision/latest/scale-to-width-down/1200?cb=20221203235056" alt="JS" height="50" /></a>
+<a href="" target="blank"><img style="margin: 10px" src="https://d7umqicpi7263.cloudfront.net/img/product/c02617ae-b437-45a6-8b96-93cf116d63cc/3984cb87-28d0-414e-a472-ed7306a9d164.png" alt="JS" height="50" /></a>
+<a href="" target="blank"><img style="margin: 10px" src="https://davidsekar.gallerycdn.vsassets.io/extensions/davidsekar/redis-xplorer/1.2.7/1567965357906/Microsoft.VisualStudio.Services.Icons.Default" alt="JS" height="50" /></a>
 </div>
 
 <!--
