@@ -21,6 +21,10 @@
 
 ![codewars](https://www.codewars.com/users/sergxlove/badges/large)
 
+### 💻 Leetcode:
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/sergxlove?theme=dark)
+
 ### 💻 Языки:
 <div>
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" width="50" /></a>  
@@ -46,6 +50,8 @@
 <a href="" target="blank"><img style="margin: 10px" src="https://d7umqicpi7263.cloudfront.net/img/product/c02617ae-b437-45a6-8b96-93cf116d63cc/3984cb87-28d0-414e-a472-ed7306a9d164.png" alt="JS" height="50" width="50"/></a>
 <a href="" target="blank"><img style="margin: 10px" src="https://davidsekar.gallerycdn.vsassets.io/extensions/davidsekar/redis-xplorer/1.2.7/1567965357906/Microsoft.VisualStudio.Services.Icons.Default" alt="JS" height="50" width="50"/></a>
 </div>
+
+
 
 
 <!--
