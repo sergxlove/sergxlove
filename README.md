@@ -1,10 +1,10 @@
-### 😼 О себе:
-Привет! Я начинающий разработчик, увлеченный программированием на C++ и C#. Я стремлюсь к постоянному развитию своих навыков и созданию качественного программного обеспечения. Моя цель - стать опытным специалистом в области разработки приложений на C++ и C#. Здесь я буду выкладывать свои проекты. Буду рад вашим советам и отзывам! Давайте делиться знаниями и вместе совершенствоваться!
+### 😼 About me:
+Hi! I am a novice developer who is passionate about programming in C++ and C#. I strive to continuously develop my skills and create high-quality software. My goal is to become an experienced specialist in the field of application development in C++ and C#. I will post my projects here. I will be glad for your advice and feedback! Let's share our knowledge and improve together!
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
@@ -25,7 +25,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sergxlove?theme=dark)
 
-### 💻 Языки:
+### 💻 Programming languages:
 <div>
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" width="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" width="50" /></a>  
@@ -34,7 +34,7 @@
 <a href="" target="blank"><img style="margin: 10px" src="https://avatars.dzeninfra.ru/get-zen_doc/1593239/pub_5dac1b6192414d00ae595c82_5dac27ddec575b00aee6262f/scale_1200" alt="JS" height="50" width="50"/></a>
 </div>
 
-### ⚙️ Инструменты:
+### ⚙️ Tools:
 <div>
 <a href="" target="blank"><img style="margin: 10px" src="https://speedyalibaba.gallerycdn.vsassets.io/extensions/speedyalibaba/alabagitstashextension/1.0/1525460428475/Microsoft.VisualStudio.Services.Icons.Default" alt="JS" height="50" width="50" /></a>
 <a href="" target="blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/a7d102f42ea3e58c820e68f706af397569d3b636cd64a5d5381efb2b4a11bad8/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3931392f3931393835332e706e67" alt="JS" height="50" width="50" /></a>
