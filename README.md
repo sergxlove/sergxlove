@@ -4,8 +4,6 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
-
-
 ### ⚙️ GitHub statistics:
 
 <table>
