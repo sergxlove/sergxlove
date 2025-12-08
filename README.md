@@ -6,6 +6,7 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
 
 ### ⚙️ GitHub statistics:
 
+
 <table>
   <tr>
     <td>
