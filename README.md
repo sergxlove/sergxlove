@@ -52,6 +52,10 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
 <a href="" target="blank"><img style="margin: 10px" src="https://davidsekar.gallerycdn.vsassets.io/extensions/davidsekar/redis-xplorer/1.2.7/1567965357906/Microsoft.VisualStudio.Services.Icons.Default" alt="JS" height="50" width="50"/></a>
 </div>
 
+<p align="center">
+ <img width="1000" src="github-sergxlove.svg" alt="sergxlove"/>
+</p>
+
 
 
 
