@@ -1,0 +1,101 @@
+<svg width="600" height="240" viewBox="0 0 600 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .neon {
+        fill: none;
+        stroke: #ff3377;
+        stroke-width: 3;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        animation: flicker 3s infinite alternate;
+      }
+      .glow {
+        fill: none;
+        stroke: #ff66aa;
+        stroke-width: 8;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        opacity: 0.5;
+        filter: blur(4px);
+      }
+      .spark {
+        fill: #ff99cc;
+        animation: sparkle 2s infinite alternate;
+      }
+      @keyframes flicker {
+        0% { stroke: #ff3377; filter: drop-shadow(0 0 5px #ff3377); }
+        50% { stroke: #ff6699; filter: drop-shadow(0 0 20px #ff66aa); }
+        100% { stroke: #ff44aa; filter: drop-shadow(0 0 8px #ff44aa); }
+      }
+      @keyframes sparkle {
+        0% { opacity: 0.3; r: 2; }
+        100% { opacity: 1; r: 4; }
+      }
+    </style>
+    
+    <!-- градиент в defs -->
+    <radialGradient id="bgGradient" cx="300" cy="120" r="300">
+      <stop offset="0%" stop-color="rgb(25, 32, 43)" />
+      <stop offset="100%" stop-color="rgb(13, 17, 23)" />
+    </radialGradient>
+  </defs>
+
+  <!-- фон rgb(13, 17, 23) -->
+  <rect width="600" height="240" fill="rgb(13, 17, 23)" />
+  
+  <!-- градиент сверху с прозрачностью, чтобы фон просвечивал -->
+  <rect width="600" height="240" fill="url(#bgGradient)" opacity="0.7" />
+
+  <!-- центральная неоновая линия -->
+  <path d="M40,120 L560,120" stroke="#ff3366" stroke-width="1.5" opacity="0.3" stroke-dasharray="8 8">
+    <animate attributeName="stroke-dashoffset" values="0;20" dur="0.8s" repeatCount="indefinite" />
+  </path>
+
+  <!-- слово SERGXLOVE -->
+  <text x="100" y="135" font-family="'Arial Black', 'Helvetica Bold', sans-serif" font-size="60" font-weight="900" letter-spacing="6">
+    <tspan class="glow" fill="none">SERGXLOVE</tspan>
+    <tspan x="100" dy="-60" class="neon">SERGXLOVE</tspan>
+  </text>
+
+  <!-- искры -->
+  <g id="sparks">
+    <circle class="spark" cx="150" cy="80" r="3">
+      <animate attributeName="cx" values="150;160;145;150" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="80;75;85;80" dur="3.5s" repeatCount="indefinite" />
+    </circle>
+    <circle class="spark" cx="450" cy="80" r="3.5">
+      <animate attributeName="cx" values="450;460;445;450" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="80;75;85;80" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle class="spark" cx="250" cy="50" r="2.5">
+      <animate attributeName="cx" values="250;260;245;250" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="50;45;55;50" dur="3.2s" repeatCount="indefinite" />
+    </circle>
+    <circle class="spark" cx="500" cy="120" r="3">
+      <animate attributeName="cx" values="500;510;495;500" dur="4.2s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="120;115;125;120" dur="3.8s" repeatCount="indefinite" />
+    </circle>
+    <circle class="spark" cx="350" cy="180" r="2.5">
+      <animate attributeName="cx" values="350;360;345;350" dur="3.6s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="180;175;185;180" dur="3.4s" repeatCount="indefinite" />
+    </circle>
+    <circle class="spark" cx="70" cy="160" r="3">
+      <animate attributeName="cx" values="70;80;65;70" dur="4.8s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="160;155;165;160" dur="4.2s" repeatCount="indefinite" />
+    </circle>
+    <circle class="spark" cx="220" cy="190" r="2.5">
+      <animate attributeName="cx" values="220;230;215;220" dur="3.3s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="190;185;195;190" dur="3.1s" repeatCount="indefinite" />
+    </circle>
+    <circle class="spark" cx="400" cy="160" r="3">
+      <animate attributeName="cx" values="400;410;395;400" dur="3.9s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="160;155;165;160" dur="3.7s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- нижняя неоновая дуга -->
+  <path d="M180,165 L420,165" stroke="#ff99cc" stroke-width="2" opacity="0.5" stroke-dasharray="12 12">
+    <animate attributeName="stroke-dashoffset" values="0;24" dur="1s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite" />
+  </path>
+</svg>
