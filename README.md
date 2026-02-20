@@ -27,11 +27,11 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
 
 ### 💻 Programming languages:
 <div>
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" width="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" width="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" width="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" width="50" /></a> 
-<a href="" target="blank"><img style="margin: 10px" src="https://avatars.dzeninfra.ru/get-zen_doc/1593239/pub_5dac1b6192414d00ae595c82_5dac27ddec575b00aee6262f/scale_1200" alt="JS" height="50" width="50"/></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/cpluspluswhite.png" alt="C++" height="50" width="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/csharpwhite.png" alt="C#" height="50" width="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/HTML5_logo_and_wordmark%2B.svg.png" alt="HTML" height="50" width="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/logo_CSS%2B.png" alt="CSS" height="50" width="50" /></a> 
+<a href="" target="_blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/jswhite.png" alt="JS" height="50" width="50"/></a>
 </div>
 
 ### ⚙️ Tools:
