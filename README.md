@@ -59,9 +59,6 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
  <img width="1000" src="github-sergxlove.svg" alt="sergxlove"/>
 </p>
 
-
-
-
 <!--
 **sergxlove/sergxlove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
