@@ -1,7 +1,7 @@
 ### 😼 About me:
 Hi! I am a novice developer who is passionate about programming in C++ and C#. I strive to continuously develop my skills and create high-quality software. My goal is to become an experienced specialist in the field of application development in C++ and C#. I will post my projects here. I will be glad for your advice and feedback! Let's share our knowledge and improve together!
 <p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
+ <img width="800" src="github-snake.svg" alt="snake"/>
 </p>
 
 ### ⚙️ GitHub statistics:
