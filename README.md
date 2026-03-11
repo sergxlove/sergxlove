@@ -58,5 +58,3 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
 <p align="center">
  <img width="1000" src="github-sergxlove.svg" alt="sergxlove"/>
 </p>
-
-
