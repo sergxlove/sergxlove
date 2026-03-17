@@ -51,6 +51,7 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/redis.png" alt="redis" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Amazon-S3-Logo.png" alt="s3" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/powershell.png" alt="powershell" height="50" width="50"/></a>
+  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/RabbitMQ.png" alt="rabbitMQ" height="50" width="50"/></a>
 </div>
 
 <br>
