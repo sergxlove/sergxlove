@@ -35,23 +35,44 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
 <a href="" target="_blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/jswhite.png" alt="JS" height="50" width="50"/></a>
 </div>
 
-### ⚙️ Tools:
+### 🖥️ .NET Stack: 
+
 <div>
- <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Git.png" alt="Git" height="50" width="50" /></a>
- <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/docker.png" alt="Docker" height="50" width="50" /></a>
- <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Visual_Studio.png" alt="VS2026" height="50" width="50"/></a>
- <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Visual_Studio_Code.png" alt="vscode" height="50" width="50"/></a>
- <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Windows.png" alt="win" height="50" width="50" /></a>
- <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Tux.png" alt="linux" height="50" width="50"/></a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Microsoft_.NET.png" alt="dotnet" height="50" width="50"/></a>
+</div>
+
+### 💾 Databases: 
+
+<div>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Postgresql.png" alt="postgresql" height="50" width="50" /></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Sqlite.png" alt="sqlite" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/mongodb.png" alt="mongodb" height="50" width="50" /></a>
- <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Microsoft_.NET.png" alt="dotnet" height="50" width="50"/></a>
+</div>
+
+### 🛠️ DevOps & Tools:
+
+<div>
+  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Git.png" alt="Git" height="50" width="50" /></a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/docker.png" alt="Docker" height="50" width="50" /></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/kafka.png" alt="kafka" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/redis.png" alt="redis" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Amazon-S3-Logo.png" alt="s3" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/powershell.png" alt="powershell" height="50" width="50"/></a>
-  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/RabbitMQ.png" alt="rabbitMQ" height="50" width="50"/></a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/RabbitMQ.png" alt="rabbitMQ" height="50" width="50"/></a>
+</div>
+
+### 📃 IDE:
+
+<div>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Visual_Studio.png" alt="VS2026" height="50" width="50"/></a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Visual_Studio_Code.png" alt="vscode" height="50" width="50"/></a>
+</div>
+
+### 🗂️ Operating System: 
+
+<div>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Windows.png" alt="win" height="50" width="50" /></a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Tux.png" alt="linux" height="50" width="50"/></a>
 </div>
 
 <br>
