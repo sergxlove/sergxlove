@@ -41,6 +41,7 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Microsoft_.NET.png" alt="dotnet" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/EFCore.png" alt="efcore" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/ASPNET.png" alt="aspnet" height="50" width="50"/></a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/unity.png" alt="unity" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/MonoGame_Logo.svg.png" alt="monogame" height="50" width="50"/></a>
 </div>
 
@@ -50,6 +51,7 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Postgresql.png" alt="postgresql" height="50" width="50" /></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Sqlite.png" alt="sqlite" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/mongodb.png" alt="mongodb" height="50" width="50" /></a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/mssqlserver.png" alt="mssqlserver" height="50" width="50" /></a>
 </div>
 
 ### 🛠️ DevOps & Tools:
@@ -75,7 +77,7 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
 
 <div>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Windows.png" alt="win" height="50" width="50" /></a>
- <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Tux.png" alt="linux" height="50" width="50"/></a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Ubuntu.png" alt="ubuntu" height="50" width="50"/></a>
 </div>
 
 <br>
