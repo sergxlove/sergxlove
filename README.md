@@ -41,6 +41,9 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Microsoft_.NET.png" alt="dotnet" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/EFCore.png" alt="efcore" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/ASPNET.png" alt="aspnet" height="50" width="50"/></a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Dapper.png" alt="dapper" height="50" width="50"/></a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/wpf.png" alt="wpf" height="50" width="50"/></a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Avalonia.png" alt="avalonia" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/unity.png" alt="unity" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/MonoGame_Logo.svg.png" alt="monogame" height="50" width="50"/></a>
 </div>
@@ -78,6 +81,7 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
 <div>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Windows.png" alt="win" height="50" width="50" /></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Ubuntu.png" alt="ubuntu" height="50" width="50"/></a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/debian.png" alt="debian" height="50" width="50"/></a>
 </div>
 <br>
 <br>
