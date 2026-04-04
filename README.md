@@ -73,6 +73,7 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/logstash.png" alt="logstash" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/kibana.png" alt="kibana" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/yarp.png" alt="yarp" height="50" width="50"/></a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/seq.png" alt="seq" height="50" width="50"/></a>
 </div>
 
 ### 📃 IDE:
