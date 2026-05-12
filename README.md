@@ -91,10 +91,8 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/debian.png" alt="debian" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/astralinux.png" alt="astralinux" height="50" width="50"/></a>
 </div>
-
 <br>
 <br>
-
 <p align="center">
  <img width="1000" src="github-sergxlove.svg" alt="sergxlove"/>
 </p>
