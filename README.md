@@ -2,6 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Telegram-@sergxlove-blue?logo=telegram&logoColor=white&link=https://t.me/sergxlove)
 ![Static Badge](https://img.shields.io/badge/Email-sergxlove.dev%40gmail.com-red?logo=gmail&logoColor=white&link=mailto:sergxlove.dev@gmail.com)
+![Static Badge](https://img.shields.io/badge/Website-https://sergxlove.github.io/SergxloveWebsite/-blue?logo=googlechrome&logoColor=white&link=https://sergxlove.github.io/SergxloveWebsite/)
 
 ### 😼 About me:
 Hi! I am a novice developer who is passionate about programming in C++ and C#. I strive to continuously develop my skills and create high-quality software. My goal is to become an experienced specialist in the field of application development in C++ and C#. I will post my projects here. I will be glad for your advice and feedback! Let's share our knowledge and improve together!
