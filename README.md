@@ -54,6 +54,9 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/unity.png" alt="unity" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/MonoGame_Logo.svg.png" alt="monogame" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Mldotnet.png" alt="mlnet" height="50" width="50"/></a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/xUnit.png" alt="xUnit" height="50" width="50"/></a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/nUnit.png" alt="nUnit" height="50" width="50"/></a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/msTest.png" alt="msTest" height="50" width="50"/></a>
 </div>
 
 ### 💾 Databases: 
