@@ -35,14 +35,21 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
 ![](https://github-profile-trophy.vercel.app/?username=sergxlove&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 💻 Programming languages:
+
 <div>
 <a href="" target="_blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/cpluspluswhite.png" alt="C++" height="50" width="50" /></a>  
 <a href="" target="_blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/csharpwhite.png" alt="C#" height="50" width="50" /></a>  
 <a href="" target="_blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/pythonLogo.png" alt="JS" height="50" width="50"/></a>
+</div>
+
+### 🖼️ Frontend:
+
+<div>
 <a href="" target="_blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/HTML5_logo_and_wordmark%2B.svg.png" alt="HTML" height="50" width="50" /></a>  
 <a href="" target="_blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/logo_CSS%2B.png" alt="CSS" height="50" width="50" /></a> 
 <a href="" target="_blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/jswhite.png" alt="JS" height="50" width="50"/></a>
 </div>
+
 
 ### 🖥️ .NET Stack: 
 
