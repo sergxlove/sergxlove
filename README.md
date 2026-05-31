@@ -31,9 +31,6 @@ Hi! I am a novice developer who is passionate about programming in C++ and C#. I
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sergxlove?theme=dark)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sergxlove&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### 💻 Programming languages:
 
 <div>
