@@ -5,7 +5,8 @@
 ![Static Badge](https://img.shields.io/badge/Website-https://sergxlove.github.io/SergxloveWebsite/-blue?logo=googlechrome&logoColor=white&link=https://sergxlove.github.io/SergxloveWebsite/)
 
 ### 😼 About me:
-Hi! I am a novice developer who is passionate about programming in C++ and C#. I strive to continuously develop my skills and create high-quality software. My goal is to become an experienced specialist in the field of application development in C++ and C#. I will post my projects here. I will be glad for your advice and feedback! Let's share our knowledge and improve together!
+Backend Software Engineer passionate about building reliable and scalable systems. Experienced with .NET, ASP.NET Core, PostgreSQL, RabbitMQ, Kafka, Docker, Redis, and Elasticsearch. Interested in distributed systems, software architecture, cloud technologies, and AI-powered applications. I use GitHub to share projects, experiment with new ideas, and document my learning journey. Always learning. Always building.
+
 <p align="center">
  <img width="800" src="github-snake.svg" alt="snake"/>
 </p>
