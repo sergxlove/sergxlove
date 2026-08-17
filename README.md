@@ -24,8 +24,6 @@ Backend Software Engineer passionate about building reliable and scalable system
   </tr>
 </table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergxlove&show_icons=true&theme=dark)
-
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/sergxlove/badges/large)
