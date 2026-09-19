@@ -3,10 +3,8 @@
 ![Static Badge](https://img.shields.io/badge/Telegram-@sergxlove-blue?logo=telegram&logoColor=white&link=https://t.me/sergxlove)
 ![Static Badge](https://img.shields.io/badge/Email-sergxlove.dev%40gmail.com-red?logo=gmail&logoColor=white&link=mailto:sergxlove.dev@gmail.com)
 ![Static Badge](https://img.shields.io/badge/Website-https://sergxlove.github.io/SergxloveWebsite/-blue?logo=googlechrome&logoColor=white&link=https://sergxlove.github.io/SergxloveWebsite/)
-
 ### 😼 About me:
 Backend Software Engineer passionate about building reliable and scalable systems. Experienced with .NET, ASP.NET Core, PostgreSQL, RabbitMQ, Kafka, Docker, Redis, and Elasticsearch. Interested in distributed systems, software architecture, cloud technologies, and AI-powered applications. I use GitHub to share projects, experiment with new ideas, and document my learning journey. Always learning. Always building.
-
 <p align="center">
  <img width="800" src="github-snake.svg" alt="snake"/>
 </p>
