@@ -7,6 +7,7 @@
 ### 😼 About me:
 
 Backend Software Engineer passionate about building reliable and scalable systems. Experienced with .NET, ASP.NET Core, PostgreSQL, RabbitMQ, Kafka, Docker, Redis, and Elasticsearch. Interested in distributed systems, software architecture, cloud technologies, and AI-powered applications. I use GitHub to share projects, experiment with new ideas, and document my learning journey. Always learning. Always building.
+
 <p align="center">
  <img width="800" src="github-snake.svg" alt="snake"/>
 </p>
