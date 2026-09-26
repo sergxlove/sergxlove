@@ -26,7 +26,6 @@ Backend Software Engineer passionate about building reliable and scalable system
 </table>
 
 ### 💻 Codewars:
-
 ![codewars](https://www.codewars.com/users/sergxlove/badges/large)
 
 ### 💻 Leetcode:
