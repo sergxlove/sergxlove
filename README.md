@@ -74,6 +74,8 @@ Backend Software Engineer passionate about building reliable and scalable system
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Sqlite.png" alt="sqlite" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/mongodb.png" alt="mongodb" height="50" width="50" /></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/mssqlserver.png" alt="mssqlserver" height="50" width="50" /></a>
+ </a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/oracle.png" alt="oracle" height="50" width="50"/></a>
 </div>
 
 ### 🛠️ DevOps & Tools:
@@ -91,6 +93,8 @@ Backend Software Engineer passionate about building reliable and scalable system
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/kibana.png" alt="kibana" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/yarp.png" alt="yarp" height="50" width="50"/></a>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/seq.png" alt="seq" height="50" width="50"/></a>
+ </a>
+ <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/dbeaver.png" alt="dbeaver" height="50" width="50"/></a>
 </div>
 
 ### 📃 IDE:
