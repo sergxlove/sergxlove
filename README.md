@@ -104,7 +104,9 @@ Backend Software Engineer passionate about building reliable and scalable system
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Visual_Studio_Code.png" alt="vscode" height="50" width="50"/></a>
 </div>
 
+
 ### 🗂️ Operating System: 
+
 
 <div>
  <a href="" target="blank"><img style="margin: 10px" src="https://github.com/sergxlove/sergxlove/blob/main/resources/Windows.png" alt="win" height="50" width="50" /></a>
